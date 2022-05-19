@@ -1,5 +1,7 @@
 from modules.task_list import *
 from modules.output import *
+from data.task_list import tasks
+
 
 while True:
     print_menu()
